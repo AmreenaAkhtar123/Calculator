@@ -1,6 +1,5 @@
 # 🧮 Stylish Calculator
 
-![Calculator Screenshot]
 ![image](https://github.com/user-attachments/assets/39a26d02-3e1d-44e8-a5f0-c2923d911815)
 
 
